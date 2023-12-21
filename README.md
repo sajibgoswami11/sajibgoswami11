@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sajib-goswami-58170b86/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.youtube.com/channel/UCuKvBZo32WZVAjBLn9zbMWg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCi72PCwU2h9h_AXRoLMZsLQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 
 <br />
