@@ -1,8 +1,10 @@
-### Hi there 👋
-
-<!--
-**sajibgoswami11/sajibgoswami11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Hi there, I'm [Mihir!](https://github.com/sajibgoswami11) 👋
+<a href="https://twitter.com/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:sajibgoswami@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-<a href="https://www.linkedin.com/in/mihir0699/" target="_blank">
+<a href="https://www.linkedin.com/in/sajib-goswami-58170b86/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
   <a href="https://www.youtube.com/channel/UCuKvBZo32WZVAjBLn9zbMWg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
