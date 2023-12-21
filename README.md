@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img alt="Mihir Gupta" align="right" src="https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png" width="400px"/>
+<img alt="Sajib Goswami" align="right" src="[https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png](https://github.com/account)" width="400px"/>
 
-<h3>Hi, I'm Mihir Gupta, a passionate self-taught <strong>Full Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
+<h3>Hi, I'm Sajib Goswami, a passionate self-taught <strong>Full Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
 <br/>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript and System Design
 - 🤔 Ask me about JavaScript and Web Development
 - ☕ Tea  is my drug
-- :mailbox: Reach out to me at : mihir0699@gmail.com<br/>
+- :mailbox: Reach out to me at : sajibgoswami@gmail.com<br/>
 
 <h3>Tech Stack</h3>
 <p align="left">
