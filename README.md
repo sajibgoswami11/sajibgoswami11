@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 <h3>Tech Stack</h3>
 <p align="left">
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=256&id=40669&format=png" alt="c-sharp" width="40" height="40"/> 
+ <img src="https://img.icons8.com/?size=256&id=36681&format=png" alt="oracle" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=256&id=6SWtW8hxZWSo&format=png" width="40" height="40" alt="Angular icon" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
   <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> 
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
-  <img src="https://img.icons8.com/color/40/000000/python.png" alt="react" width="40" height="40"/> 
-  <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/40/000000/python.png" alt="react" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
 
  </p>
