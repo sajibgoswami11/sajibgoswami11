@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img alt="Sajib Goswami" align="right" src="[https://raw.githubusercontent.com/mihir0699/mihir0699/master/Untitled%20design.png](https://github.com/account)" width="400px"/>
 
 <h3>Hi, I'm Sajib Goswami, a passionate self-taught <strong>Full Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 <h3>Tech Stack</h3>
 <p align="left">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/C#.png"  width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/C-sharp.png"  width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
   <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
